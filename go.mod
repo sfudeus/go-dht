@@ -1,6 +1,6 @@
 module github.com/sfudeus/go-dht
 
-go 1.25.7
+go 1.24.12
 
 require (
 	periph.io/x/conn/v3 v3.7.2
